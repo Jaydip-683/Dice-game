@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+    font-family: 'Odibee Sans', cursive;
+    background-color: #4E6E81;
+}
+
+a
+{
+    text-decoration: none;
+    color: #2E3840 ;
+}
+a:hover
+{
+    color: #F9DBBB;
+}
+
+img{
+    width: 200px;
+}
+
+.container
+{
+    margin-top: 50px;
+}
+.roll
+{   
+    height: 100px;
+    width: 100px;
+    padding: 15px;
+    font-size: 50px;
+    background-color: aliceblue;
+    margin: 150px auto ;
+    border-left-width: 5px;
+    border-color: solid black;
+    border-style: outset;
+    border-radius: 10px;   
+}
+.roll:hover
+{
+    background-color: #4E6E81;
+}
+.dice
+{
+    margin-bottom: 50px;
+    color: #F9DBBB;
+}
+
+.playername
+{
+    margin: 20px;
+    font-size: 50px; ;
+}
+
+.heading-text
+{   
+    padding: 20px 0 20px;
+    font-size: 90px;
+    padding: 10px auto 10px;
+    /* margin: 50px auto 30px auto; */
+    background-color:#F9DBBB ;
+}
+
+
+.footer
+{
+    margin: 50px 0 auto;
+    font-size: 50px; ;
+}
